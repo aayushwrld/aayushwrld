@@ -1,17 +1,17 @@
 <br clear="both">
 
-<h3 align="center">Hi 👋🏻, I'm Aayush!</h3>
+<h1 align="center">Hi 👋🏻, I'm Aayush!</h1>
 
 ###
 
-<p align="center">My Socials 👇🏻</p>
+<h3 align="center">My Socials 👇🏻</h3>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <a href="https://linkedin.com/in/aayusharora-ok" target="_blank">
+  <a href="www.linkedin.com/in/aayusharora-ok" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/aayushkyuu" target="_blank">
@@ -40,9 +40,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
