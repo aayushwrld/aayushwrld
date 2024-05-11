@@ -3,7 +3,7 @@
 <br>
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
-- 📫 How to reach me **aayusharora20@gmail.com**
+- 📫 How to reach me **aayushh2k@gmail.com**
 
 <br>
 <h3 align="center">Connect with me:</h3>
