@@ -3,6 +3,7 @@
 <br>
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
+- ⚡️ I'm currently building **[InterPrep](https://inter-prep.vercel.app/)**
 - 📫 How to reach me **aayushh2k@gmail.com**
 
 <br>
